@@ -1,0 +1,5 @@
+# Ignorar o arquivo Base_RH.xlsx
+Base_RH.xlsx
+
+# Ignorar o diretório .venv
+.venv/
