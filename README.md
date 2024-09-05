@@ -8,7 +8,6 @@ Estrutura
 Iniciando o Projeto: Introdução e pré-processamento dos dados.
 ETL (Extract, Transform, Load): Preparação dos dados para análise.
 Análise Exploratória (EDA): Análise das correlações e insights iniciais.
-Modelagem Preditiva: Construção de modelos para prever o turnover.
 Recomendações: Baseadas nos resultados e benchmarks de turnover do setor.
 Dataset
 Contém as seguintes variáveis:
@@ -18,6 +17,6 @@ Resultados
 Identificamos que funcionários solteiros e com alta frequência de viagens têm uma probabilidade significativamente maior de deixar a empresa.
 Recomendamos estratégias focadas em melhorar o equilíbrio entre vida profissional e pessoal, além de oportunidades de crescimento profissional.
 Ferramentas Utilizadas
-Python (Pandas, NumPy)
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 Power BI
-Machine Learning (AUC-ROC, IV)
+Estatística (Pearson, IV)
